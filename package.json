@@ -1,0 +1,11 @@
+{
+  "name": "comidapp",
+  "version": "1.0.0",
+  "description": "a website for my friend Paulina and her anvorguesas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rosarie",
+  "license": "MIT"
+}
